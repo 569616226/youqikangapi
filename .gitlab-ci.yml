@@ -1,0 +1,10 @@
+stages:
+- develop
+deploy:
+  stage: develop
+  script:
+    - deploy_yqk_api check_elinkport_com youqikangapi
+  only:
+    - develop
+  tags:
+    - develop

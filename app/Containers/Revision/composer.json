@@ -1,0 +1,7 @@
+{
+  "name": "apiato/revision",
+  "description": "Revision Container for apiato.",
+  "require": {
+    "venturecraft/revisionable": "1.*"
+  }
+}

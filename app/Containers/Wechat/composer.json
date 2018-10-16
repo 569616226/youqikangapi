@@ -1,0 +1,8 @@
+{
+  "name": "apiato/wechat",
+  "description": "apiato Container for apiato.",
+  "type": "apiato-container",
+  "require": {
+    "qcloudsms/qcloudsms_php": "^0.1.2"
+  }
+}
